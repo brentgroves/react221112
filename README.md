@@ -1,5 +1,8 @@
 https://medium.com/dev-genius/create-react-app-from-scratch-using-webpack-fa6e41f15289
 https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+https://github.com/brillout/awesome-react-components
+https://reactjs.org/community/courses.html
+
 npm i react react-dom
 
 <!-- We are using webpack to bundle our project. Webpack will compile our code to one single bundle which can be injected to our template html before serving it in the web.
