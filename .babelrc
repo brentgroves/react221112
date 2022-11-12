@@ -1,0 +1,8 @@
+// 20221112145917
+// https://gist.githubusercontent.com/sudiparyal185/29f2f6bf6808ff48646570fbc9b6f362/raw/80c3edd9e4963e7d64a2555b92e2c07b9c69000b/.babelrc
+{
+  "presets": [
+    "@babel/preset-react",
+    "@babel/preset-env"
+  ]
+}
